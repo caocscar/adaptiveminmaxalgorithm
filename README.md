@@ -1,4 +1,4 @@
-# adaptiveminmaxalgorithm
+# Adaptive Minmax Algorithm
 Algorithm for the adaptive min max methodology for background subtraction in Raman spectroscopy
 
 ## Basic Usage Instructions
